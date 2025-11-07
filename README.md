@@ -57,34 +57,4 @@ You’ll see the published tweet instantly.
 
 ---
 
-## 📸 Screenshots
-Include:
-1. `image1_publisher_subscriber.png` → both GUIs running, messages flowing  
-2. `image2_tkinter_gui.png` → Tkinter GUI layout  
 
-Place them in the `screenshots/` folder.
-
----
-
-## 🧾 Submission
-1. Upload this folder to **GitHub** as:  
-   ```
-   MQTT-Twitter
-   ```
-2. Push your code:
-   ```bash
-   git init
-   git add .
-   git commit -m "Assignment 2 - MQTT Twitter"
-   git branch -M main
-   git remote add origin https://github.com/<your-username>/MQTT-Twitter.git
-   git push -u origin main
-   ```
-3. Submit your **GitHub repository link** and your **screenshots** on the assignment portal.
-
----
-
-## ✅ Learning Outcomes
-- Implemented an MQTT Pub–Sub model  
-- Built GUI-based publisher/subscriber apps  
-- Demonstrated distributed communication in real time  
